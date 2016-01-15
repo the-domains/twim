@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[twim]]></title>
         <description><![CDATA[twim]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/twim/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 14:58:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 14:58:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/twim/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[¡Bienvenidos al cambio!]]></title>
+            <description><![CDATA[<article><h1>¡Bienvenidos al cambio!</h1><p>Nos hallamos en un momento único, dónde todos los sectores del mercado se están encontrando con enormes desafíos en toda su cadena de valor, las nuevas tecnologías y la digitalización de prácticamente "todo" ha transformado la forma en la que interactuamos entre nosotros, con las empresas y con los productos.</p></article>]]></description>
+            <link>https://thegrid.ai/twim/bienvenidos-al-cambio/index.html</link>
+            <guid isPermaLink="false">8339f3c3-c4e6-40a2-baea-b9003867058d</guid>
+            <pubDate>Fri, 15 Jan 2016 14:57:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Emprendedores: De la idea al emprendimiento hay un largo trecho. El camino que hay que recorrer para hacer realidad tus proyectos es arduo y complejo. Haberlo hecho antes ayuda un poco a centrarse en lo importante.]]></title>
             <description><![CDATA[<h1>Emprendedores: De la idea al emprendimiento hay un largo trecho. El camino que hay que recorrer para hacer realidad tus proyectos es arduo y complejo. Haberlo hecho antes ayuda un poco a centrarse en lo importante.</h1>]]></description>
-            <link>undefinedemprendedores-de-la-idea-al-emprendimiento-hay-un-largo-tre/index.html</link>
+            <link>https://thegrid.ai/twim/emprendedores-de-la-idea-al-emprendimiento-hay-un-largo-tre/index.html</link>
             <guid isPermaLink="false">d7a63433-b21f-4f29-9fa8-3c5c60975a89</guid>
             <pubDate>Fri, 15 Jan 2016 14:57:59 GMT</pubDate>
         </item>
