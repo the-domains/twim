@@ -4,8 +4,15 @@
         <description><![CDATA[twim]]></description>
         <link>https://thegrid.ai/twim/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 17:50:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 17:51:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/twim/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[¡Bienvenidos al cambio!]]></title>
+            <description><![CDATA[<h1></h1>]]></description>
+            <link>https://thegrid.ai/twim/bienvenidos-al-cambio/index.html</link>
+            <guid isPermaLink="false">8339f3c3-c4e6-40a2-baea-b9003867058d</guid>
+            <pubDate>Mon, 18 Jan 2016 17:51:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Start-ups:]]></title>
             <description><![CDATA[<article><h1>Start-ups:</h1><h2>Si te has lanzado en un emprendimiento, rápidamente te darás cuenta que que es fundamental para el éxito de tu proyecto haber realizado una buena planificación financiera. Tener en cuenta las necesidades de financiación como cuales son las distintas fuentes para obtener el dinero necesario para avanzar es crucial.</h2><p>Si te has lanzado sabes que es vital para el éxito de tu proyecto haber realizado una buena planificación financiera. Tener en cuenta las necesidades de financi</p></article>]]></description>
@@ -22,17 +29,10 @@
         </item>
         <item>
             <title><![CDATA[Emprendedores:]]></title>
-            <description><![CDATA[<article><h1>Emprendedores:</h1><p>De la idea al emprendimiento hay un largo trecho. El camino que hay que recorrer para hacer realidad tus proyectos es arduo y complejo. Haberlo hecho antes ayud</p></article>]]></description>
+            <description><![CDATA[<article><h1>Emprendedores:</h1><h2>Desde la idea al emprendimiento hay mucho camino por recorrer. Transformar en realidad las ideas es arduo y complejo. Haberlo hecho antes ayuda un poco, sobre todo a centrarse en lo importante.</h2><p>De la idea al emprendimiento hay un largo trecho. El camino que hay que recorrer para hacer realidad tus proyectos es arduo y complejo. Haberlo hecho antes ayud</p></article>]]></description>
             <link>http://www.twim.es/</link>
             <guid isPermaLink="false">877d999f-e5f9-4df9-962e-e96142f6586b</guid>
             <pubDate>Mon, 18 Jan 2016 17:49:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[¡Bienvenidos al cambio!]]></title>
-            <description><![CDATA[<article><h1>¡Bienvenidos al cambio!</h1><p>Nos hallamos en un momento único, dónde todos los sectores del mercado se están encontrando con enormes desafíos en toda su cadena de valor, las nuevas tecnologías y la digitalización de prácticamente "todo" ha transformado la forma en la que interactuamos entre nosotros, con las empresas y con los productos.</p></article>]]></description>
-            <link>https://thegrid.ai/twim/bienvenidos-al-cambio/index.html</link>
-            <guid isPermaLink="false">8339f3c3-c4e6-40a2-baea-b9003867058d</guid>
-            <pubDate>Fri, 15 Jan 2016 14:57:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
