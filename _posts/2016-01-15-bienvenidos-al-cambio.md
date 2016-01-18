@@ -3,33 +3,38 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-15T14:57:59.559Z'
-dateModified: '2016-01-15T14:57:20.133Z'
+datePublished: '2016-01-18T17:51:35.725Z'
+dateModified: '2016-01-18T17:51:28.499Z'
+title: '¡Bienvenidos al cambio!'
+author: []
+sourcePath: _posts/2016-01-15-bienvenidos-al-cambio.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: '¡Bienvenidos al cambio!'
-author: []
-sourcePath: _posts/2016-01-15-bienvenidos-al-cambio.md
-published: true
 url: bienvenidos-al-cambio/index.html
 _type: Article
 
 ---
 # 
 
-¡Bienvenidos al cambio!
+# [¡Bienvenidos al cambio!][0]
 
-Nos hallamos en un momento único, dónde todos los sectores del mercado se están encontrando con enormes desafíos en toda su cadena de valor, las nuevas tecnologías y la digitalización de prácticamente "todo" ha transformado la forma en la que interactuamos entre nosotros, con las empresas y con los productos.
+## Nos hallamos en un momento único, dónde todos los sectores del mercado se están encontrando con enormes desafíos en toda su cadena de valor, las nuevas tecnologías y la digitalización de prácticamente "todo" han transformado la forma en la que interactuamos entre nosotros, con las empresas y con los productos.
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5ea33b92029f6255ad88bccd2d2ddea1/passthrough.jpg?height=225&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F52447784136d34f9ce81575b15ec035fe330480b.jpg&width=250)
 
-El emprendimiento y la innovación se están fomentando desde todos los lados, los medios de comunicación difunden gran cantidad de noticias, los gobiernos dedican partidas presupuestarias para ayudar a los emprendedores, las grandes empresas estan invirtiendo grandes sumas de dinero para fomentar la innovación y el emprendimiento por medio de aceleradoras y programas internos de desarrollo, etc...
+# foto\_pablo\_tur
 
-Dentro de este contexto soy consciente de que un asesoramiento adaptado al nuevo entorno es fundamental, tanto para los emprendedores, las empresas que deben encajar este nuevo escenario y los inversores que quieren iniciarse en proyectos innovadores y en fases tempranas.
+pablo tur
 
-Por todo esto, mi objetivo es innovar en la forma de asesorar.
+foto perfil pablo tur
+
+Uploading Item...
+
+[0]: null
