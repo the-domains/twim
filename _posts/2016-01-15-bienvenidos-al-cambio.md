@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-18T17:51:35.808Z'
-dateModified: '2016-01-18T17:51:28.499Z'
+datePublished: '2016-01-18T18:01:12.173Z'
+dateModified: '2016-01-18T18:00:52.774Z'
 title: '¡Bienvenidos al cambio!'
 author: []
 sourcePath: _posts/2016-01-15-bienvenidos-al-cambio.md
@@ -24,17 +24,9 @@ _type: Article
 ---
 # 
 
-# [¡Bienvenidos al cambio!][0]
+# ¡Bienvenidos al cambio!
 
 ## Nos hallamos en un momento único, dónde todos los sectores del mercado se están encontrando con enormes desafíos en toda su cadena de valor, las nuevas tecnologías y la digitalización de prácticamente "todo" han transformado la forma en la que interactuamos entre nosotros, con las empresas y con los productos.
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5ea33b92029f6255ad88bccd2d2ddea1/passthrough.jpg?height=225&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F52447784136d34f9ce81575b15ec035fe330480b.jpg&width=250)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/adae675c-5dac-448a-931d-b08171890016.png)
 
-# foto\_pablo\_tur
-
-pablo tur
-
-foto perfil pablo tur
-
-Uploading Item...
-
-[0]: null
+#
