@@ -1,6 +1,6 @@
 name: twim
 favicon: null
-layout_spectrum: 0.83212
+layout_spectrum: 0.00816
 typography_spectrum: 0.15699
 title: a new way of advise
 cta:
@@ -22,8 +22,8 @@ color:
     - '#0000ff'
     - '#000080'
     - '#004080'
-  brandStrength: 1
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0
+  brandStrength: 0
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
