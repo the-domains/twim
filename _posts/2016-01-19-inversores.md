@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Una elección vital para el éxito
-datePublished: '2016-01-19T10:10:28.241Z'
-dateModified: '2016-01-19T10:08:39.347Z'
+datePublished: '2016-01-19T10:13:13.565Z'
+dateModified: '2016-01-19T10:12:01.302Z'
 title: Inversores
 author: []
+sourcePath: _posts/2016-01-19-inversores.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-19-inversores.md
-published: true
 url: inversores/index.html
 _type: Article
 
