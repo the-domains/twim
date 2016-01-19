@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Una reflexión sobre el emprendedor y su desafío
-datePublished: '2016-01-19T10:13:31.857Z'
+datePublished: '2016-01-19T10:13:31.861Z'
 dateModified: '2016-01-19T10:13:16.536Z'
 title: Emprendedor
 author: []
