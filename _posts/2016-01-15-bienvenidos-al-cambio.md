@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-19T09:42:49.931Z'
+datePublished: '2016-01-19T09:42:49.938Z'
 dateModified: '2016-01-19T09:42:46.224Z'
 title: '¡Bienvenidos al cambio!'
 author: []
