@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[twim]]></title>
-        <description><![CDATA[twim]]></description>
+        <title><![CDATA[a new way of advise]]></title>
+        <description><![CDATA[a new way of advise]]></description>
         <link>https://thegrid.ai/twim/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 18:01:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 08:41:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/twim/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[¡Bienvenidos al cambio!]]></title>
@@ -25,13 +25,6 @@
             <description><![CDATA[<article><h1>Inversores:</h1><h2>Contar con un inversor en tu proyecto puede ayudarte a conseguir tu meta siempre y cuando sea el inversor adecuado para tu emprendimiento. Decidir que tipo de inversor necesita tu proyecto y elegir el compañero de viaje adecuado es lo que puede marcar la diferencia.</h2><p>Un inversor puede ayudarte a conseguir tu meta siempre y cuando sea el inversor adecuado para tu emprendimiento. Decidir si se busca o no un inversor y elegir e</p></article>]]></description>
             <link>http://www.twim.es/</link>
             <guid isPermaLink="false">7b73d168-884d-4915-a6c1-8b08d44e6181</guid>
-            <pubDate>Mon, 18 Jan 2016 17:49:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Emprendedores:]]></title>
-            <description><![CDATA[<article><h1>Emprendedores:</h1><h2>Desde la idea al emprendimiento hay mucho camino por recorrer. Transformar en realidad las ideas es arduo y complejo. Haberlo hecho antes ayuda un poco, sobre todo a centrarse en lo importante.</h2><p>De la idea al emprendimiento hay un largo trecho. El camino que hay que recorrer para hacer realidad tus proyectos es arduo y complejo. Haberlo hecho antes ayud</p></article>]]></description>
-            <link>http://www.twim.es/</link>
-            <guid isPermaLink="false">877d999f-e5f9-4df9-962e-e96142f6586b</guid>
             <pubDate>Mon, 18 Jan 2016 17:49:51 GMT</pubDate>
         </item>
     </channel>
